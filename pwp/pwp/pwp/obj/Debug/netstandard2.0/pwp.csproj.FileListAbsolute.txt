@@ -1,0 +1,12 @@
+C:\Users\Ednilason\Desktop\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\bin\Debug\netstandard2.0\pwp.deps.json
+C:\Users\Ednilason\Desktop\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\bin\Debug\netstandard2.0\pwp.dll
+C:\Users\Ednilason\Desktop\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ednilason\Desktop\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ednilason\Desktop\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\pwp.csproj.CoreCompileInputs.cache
+C:\Users\Ednilason\Desktop\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\pwp.AssemblyInfoInputs.cache
+C:\Users\Ednilason\Desktop\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\pwp.AssemblyInfo.cs
+C:\Users\Ednilason\Desktop\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\bin\Debug\netstandard2.0\pwp.pdb
+C:\Users\Ednilason\Desktop\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ednilason\Desktop\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\pwp.dll
+C:\Users\Ednilason\Desktop\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\pwp.pdb
+C:\Users\Ednilason\Desktop\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\pwp.csprojAssemblyReference.cache
