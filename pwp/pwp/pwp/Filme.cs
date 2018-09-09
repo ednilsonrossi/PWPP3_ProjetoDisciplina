@@ -21,5 +21,10 @@ namespace pwp
         public String Poster { get; set; }
 
         public String Production { get; set; }
+
+        public override string ToString()
+        {
+            return Title;
+        }
     }
 }

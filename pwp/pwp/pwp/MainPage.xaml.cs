@@ -9,15 +9,19 @@ namespace pwp
 {
     public partial class MainPage : ContentPage
     {
+        
         public MainPage()
         {
             InitializeComponent();
 
-            using (var dados = new AcessoDB())
-            {
-                this.Lista.ItemsSource = dados.RecuperateAll();
-            }
         }
+
+        protected override async void OnAppearing()
+        {
+            base.OnAppearing();
+            updateList();
+        }
+
 
         protected void Salvar(object sender, EventArgs e)
         {
@@ -33,12 +37,14 @@ namespace pwp
                     Production = "Paramount Pictures"
                 };
 
-                using (var dados = new AcessoDB())
-                {
-                    dados.Insert(filme);
-                    this.Lista.ItemsSource = dados.RecuperateAll();
-                }
+                App.DataBase.Insert(filme);
+                updateList();
             }
+        }
+
+        private async void updateList()
+        {
+            Lista.ItemsSource = await App.DataBase.RecuperateAll();
         }
     }
 }

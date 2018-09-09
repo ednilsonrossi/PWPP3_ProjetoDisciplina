@@ -8,7 +8,15 @@
         <Button x:Name="NovoFilme" Text="Novo" Clicked="Salvar" />
 
         <ListView x:Name="Lista">
-
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Margin="20,0,0,0" Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                            <Label Text="{Binding Title}" VerticalTextAlignment="Center" HorizontalOptions="StartAndExpand" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
         </ListView>
     </StackLayout>
 

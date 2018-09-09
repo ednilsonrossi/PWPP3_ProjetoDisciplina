@@ -7,7 +7,8 @@ namespace pwp
 {
     public interface IConfig
     {
-        String DiretorioDB { get; }
+        //String DiretorioDB { get; }
+        string getLocalPath(string name);
 
         //ISQLitePlatform Platform { get; }
     }
