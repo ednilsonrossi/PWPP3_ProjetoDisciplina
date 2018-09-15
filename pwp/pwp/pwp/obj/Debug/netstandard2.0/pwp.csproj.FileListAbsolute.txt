@@ -10,3 +10,14 @@ C:\Users\Ednilason\Desktop\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstan
 C:\Users\Ednilason\Desktop\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\pwp.dll
 C:\Users\Ednilason\Desktop\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\pwp.pdb
 C:\Users\Ednilason\Desktop\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\pwp.csprojAssemblyReference.cache
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\bin\Debug\netstandard2.0\pwp.deps.json
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\bin\Debug\netstandard2.0\pwp.dll
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\bin\Debug\netstandard2.0\pwp.pdb
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\pwp.csprojAssemblyReference.cache
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\pwp.csproj.CoreCompileInputs.cache
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\pwp.AssemblyInfoInputs.cache
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\pwp.AssemblyInfo.cs
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\pwp.dll
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\pwp.pdb
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\pwp.App.xaml.g.cs
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp\obj\Debug\netstandard2.0\pwp.MainPage.xaml.g.cs

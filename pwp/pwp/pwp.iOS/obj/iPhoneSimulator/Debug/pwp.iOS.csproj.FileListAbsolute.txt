@@ -1,0 +1,8 @@
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.iOS\obj\iPhoneSimulator\Debug\pwp.iOS.csprojAssemblyReference.cache
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.iOS\obj\iPhoneSimulator\Debug\pwp.iOS.csproj.CoreCompileInputs.cache

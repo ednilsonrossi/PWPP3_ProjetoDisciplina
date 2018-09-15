@@ -13,6 +13,14 @@ namespace pwp.iOS
 {
     class Config : IConfig
     {
+        public string getLocalPath(string name)
+        {
+            string path = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
+            path = System.IO.Path.Combine(path, "..", "Library");
+            return Path.Combine(path, name);
+        }
+
+        /*
         private string _diretorioDB;
         string IConfig.DiretorioDB
         {
@@ -26,19 +34,7 @@ namespace pwp.iOS
                 return _diretorioDB;
             }
         }
-
-        /*private ISQLitePlatform _plataforma;
-        ISQLitePlatform IConfig.Platform
-        {
-            get
-            {
-                if (_plataforma == null)
-                {
-                    _plataforma = new SQLite.Net.Platform.XamarinIOS.SQLitePlatformIOS();
-                }
-                return _plataforma;
-            }
-        }
         */
+        
     }
 }

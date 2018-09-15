@@ -148,14 +148,16 @@
     <Reference Include="System.Core" />
     <Reference Include="Xamarin.iOS" />
   </ItemGroup>
-  <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="3.1.0.697729" />
-  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\pwp\pwp.csproj">
       <Project>{2AD09C90-A44A-440A-978D-B8DDD4D5451F}</Project>
       <Name>pwp</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms">
+      <Version>2.4.0.91020</Version>
+    </PackageReference>
   </ItemGroup>
 </Project>
