@@ -3,6 +3,7 @@ C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\D
 C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\Debug\MonoAndroid81\android\assets\Java.Interop.dll
 C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Android.dll
 C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\Debug\MonoAndroid81\android\assets\mscorlib.dll
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\Debug\MonoAndroid81\android\assets\Newtonsoft.Json.dll
 C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\Debug\MonoAndroid81\android\assets\pwp.dll
 C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\Debug\MonoAndroid81\android\assets\SQLite-net.dll
 C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\Debug\MonoAndroid81\android\assets\SQLitePCLRaw.batteries_green.dll
@@ -70,9 +71,9 @@ C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\D
 C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\Debug\MonoAndroid81\android\assets\System.Web.Services.dll
 C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.XPath.XDocument.dll
 C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\Debug\MonoAndroid81\android\assets\System.ComponentModel.dll
+C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.ReaderWriter.dll
 C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\Debug\MonoAndroid81\android\assets\System.Threading.Tasks.dll
 C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\Debug\MonoAndroid81\android\assets\System.Globalization.dll
 C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Security.dll
-C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.ReaderWriter.dll
 C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\Debug\MonoAndroid81\android\assets\System.IO.dll
 C:\Users\Ednilson\source\repos\PWPP3_ProjetoDisciplina\pwp\pwp\pwp.Android\obj\Debug\MonoAndroid81\android\assets\System.Text.RegularExpressions.dll

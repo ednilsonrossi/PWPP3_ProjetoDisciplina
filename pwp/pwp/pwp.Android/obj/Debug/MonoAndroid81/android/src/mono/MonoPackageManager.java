@@ -108,6 +108,7 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "pwp.Android.dll" comes first in this list. */
 		"pwp.Android.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
 		"pwp.dll",
 		"SQLite-net.dll",
 		"SQLitePCLRaw.batteries_green.dll",

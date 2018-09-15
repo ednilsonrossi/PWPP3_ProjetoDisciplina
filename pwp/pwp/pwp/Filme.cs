@@ -5,7 +5,7 @@ using SQLite;
 
 namespace pwp
 {
-    class Filme
+    public class Filme
     {
         [PrimaryKey, AutoIncrement]
         public int Id { get; set; }
@@ -21,6 +21,9 @@ namespace pwp
         public String Poster { get; set; }
 
         public String Production { get; set; }
+
+        public string Response { get; set; }
+        public string Error { get; set; }
 
         public override string ToString()
         {

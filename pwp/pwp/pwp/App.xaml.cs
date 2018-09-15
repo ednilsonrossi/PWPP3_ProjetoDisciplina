@@ -12,7 +12,7 @@ namespace pwp
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new MainPage());
         }
 
         internal static AcessoDB DataBase

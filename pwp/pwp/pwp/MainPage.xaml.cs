@@ -22,7 +22,7 @@ namespace pwp
             updateList();
         }
 
-
+        /*
         protected void Salvar(object sender, EventArgs e)
         {
             if (sender == this.NovoFilme)
@@ -41,10 +41,23 @@ namespace pwp
                 updateList();
             }
         }
+        */
 
         private async void updateList()
         {
             Lista.ItemsSource = await App.DataBase.RecuperateAll();
+        }
+
+        private async void ToolbarItem_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Pesquisa());
+        }
+
+        private async void Lista_ItemSelected(object sender, SelectedItemChangedEventArgs e)
+        {
+            Filme filmeClicado = e.SelectedItem as Filme;
+
+            await Navigation.PushAsync(new FilmeDetalhe(filmeClicado, true));
         }
     }
 }

@@ -2,17 +2,23 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:pwp"
-             x:Class="pwp.MainPage">
-
+             x:Class="pwp.MainPage"
+             Title="Filmes Favoritos">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Buscar" Clicked="ToolbarItem_Clicked" />
+    </ContentPage.ToolbarItems>
     <StackLayout>
+        
+        <!--
         <Button x:Name="NovoFilme" Text="Novo" Clicked="Salvar" />
-
-        <ListView x:Name="Lista">
+        -->
+        <ListView x:Name="Lista" ItemSelected="Lista_ItemSelected" RowHeight="100">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <StackLayout Margin="20,0,0,0" Orientation="Vertical" HorizontalOptions="FillAndExpand">
-                            <Label Text="{Binding Title}" VerticalTextAlignment="Center" HorizontalOptions="StartAndExpand" />
+                        <StackLayout Margin="20,0,0,0" Padding="5,10,5,10" Orientation="Horizontal">
+                            <Image Source="{Binding Poster}" Aspect="AspectFit" />
+                            <Label Margin="20,0,0,20" Text="{Binding Title}" VerticalTextAlignment="Center"  FontAttributes="Bold" FontSize="Medium" />
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>
